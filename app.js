@@ -10,7 +10,7 @@ http.createServer(function (request, response) {
 <<<<<<< HEAD
    response.end('Hello NodeJS World\n');
 =======
-   response.end('Hello NodeJS World DevOpsGurukul \n');
+   response.end('Hello World DevOpsGurukul \n');
 >>>>>>> 46c2cb30b6344cdb49a3ffcdcda7b3a0234d569d
 }).listen(8081);
 
