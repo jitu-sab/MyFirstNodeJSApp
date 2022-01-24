@@ -7,7 +7,11 @@ http.createServer(function (request, response) {
    response.writeHead(200, {'Content-Type': 'text/plain'});
    
    // Send the response body as "Hello World"
+<<<<<<< HEAD
    response.end('Hello NodeJS World\n');
+=======
+   response.end('Hello NodeJS World DevOpsGurukul \n');
+>>>>>>> 46c2cb30b6344cdb49a3ffcdcda7b3a0234d569d
 }).listen(8081);
 
 // Console will print the message
