@@ -1,2 +1,2 @@
 # MyFirstNodeJSApp
-Simple Node JS App for CI/CD pipline
+Simple Node JS App
